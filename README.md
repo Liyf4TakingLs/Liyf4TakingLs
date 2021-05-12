@@ -2,17 +2,18 @@
 
 My name is **Liyf4TakingLs**. 
 I am the founder of [@ChaoticDestiny Hosting](https://chaoticdestiny.host/).
-
+<br>
 I have some experience in **HTML | CSS | Javascript | Python**, but I am still expanding into new territory because of my further education in an IT-focused school. 
 My current goal is to successfully finish school (inkl. Matura) and start working as a Networking Technician / Manager.
-
-
-
+<br>
+<br>
+<br>
 ### The Languages I speak:
 - German (*Learning*)
 - English
 - Croatian
 
+<br><br><br><br><br><br><br>
 
 
 
@@ -21,9 +22,8 @@ My current goal is to successfully finish school (inkl. Matura) and start workin
 
 
 
-
-🤞 [] If I successfully finish school, I'll dye my hair pink and use the foto for my profile picture.
-
+🤞 - [] If I successfully finish school, I'll dye my hair pink and use the foto for my profile picture.
+<br><br><br><br><br><br>
 
 <center><table>
 <tr><th colspan="2"><b>Contact Me</b></th></tr>
