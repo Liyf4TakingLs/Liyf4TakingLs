@@ -20,7 +20,7 @@ My current goal is to successfully finish school (inkl. Matura) and start workin
 
 
 
-- [] If I successfully finish school, I'll dye my hair pink and use the foto for my profile picture. 🤞 🤞 🤞 🤞 
+- [ ] If I successfully finish school, I'll dye my hair pink and use the foto for my profile picture. 🤞 🤞 🤞 🤞 
 <br><br><br>
 
 <center><table>
