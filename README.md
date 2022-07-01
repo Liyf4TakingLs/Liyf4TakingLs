@@ -35,7 +35,6 @@ My current goal is to successfully finish school (inkl. Matura) and start workin
     Adobe AfterEffects (*Learning)
 </p>
 </details>
-<br>
 <b><h3>Certificates</h3></b>
 <details><summary>Click to expand</summary>
 <p>
