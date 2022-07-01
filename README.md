@@ -4,8 +4,12 @@
 My name is <b>Liyf4TakingLs</b>, but people call me <b>Leafy</b>. 
 I am the founder of [@ChaoticDestiny Hosting](https://chaoticdestiny.host/).
 
-I have some experience in <b>HTML | CSS | Javascript | Python</b>, but I am still expanding into new territory because of my further education in an IT-focused school. 
-My current goal is to successfully finish school (inkl. Matura) and start working as a Networking Technician / Manager.
+My goal is to expand my knowledge about **Javascript, Typescript, C# and Python.**<br> 
+I have some knowledge with html and css, but I do not like spending hours by making something look nice. <br> <br>
+My current goal is to successfully finish school (incl. Matura), maybe go to an Informatics focused college and then work as a <br> 
+**Networking Technician/Manager/System Administrator**
+<br><br>
+ <h4>Sometimes taking a step into the unknown is risky, but that might be the only option/chance to get out of the situation.</h4>  
 <br><br>
 
 <b><h3>The Languages I speak:</h3></b>
