@@ -12,9 +12,9 @@ My current goal is to successfully finish school (inkl. Matura) and start workin
 <details><summary>Click to expand</summary>
 <p>
   
-    - German (*Learning)
-    - English (Passed)
-    - Croatian (Passed)
+    German (*Learning)
+    English (Passed)
+    Croatian (Passed)
 </p>
 </details>
 
@@ -23,16 +23,24 @@ My current goal is to successfully finish school (inkl. Matura) and start workin
 <details><summary>Click to expand</summary>
 <p>
   
-    - Excel (Passed)
-    - Word (Passed)
-    - Access (Passed)
-    - MySQL (*Learning)
-    - PhP (*Learning)
-    - Adobe Photoshop (*Learning)
-    - Adobe Illustrator (*Learning)
-    - Adobe InDesign (*Learning)
-    - Adobe PremierePro (*Learning)
-    - Adobe AfterEffects (*Learning)
+    Excel (Passed)
+    Word (Passed)
+    Access (Passed)
+    MySQL (*Learning)
+    PhP (*Learning)
+    Adobe Photoshop (*Learning)
+    Adobe Illustrator (*Learning)
+    Adobe InDesign (*Learning)
+    Adobe PremierePro (*Learning)
+    Adobe AfterEffects (*Learning)
+</p>
+</details>
+<br>
+<b><h3>Certificates</h3></b>
+<details><summary>Click to expand</summary>
+<p>
+  
+    Cisco CCNA Certificate
 </p>
 </details>
 
