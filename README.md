@@ -4,7 +4,7 @@
 My name is <b>Liyf4TakingLs</b>, but people call me <b>Leafy</b>. 
 I am the founder of [@ChaoticDestiny Hosting](https://chaoticdestiny.host/).
 
-My goal is to expand my knowledge about **Javascript, Typescript, C# and Python.**<br> 
+My goal is to expand my knowledge about **`.js`, `.ts`, `.cs` and `.py`**<br> 
 I have some knowledge with html and css, but I do not like spending hours by making something look nice. <br> <br>
 My current goal is to successfully finish school (incl. Matura), maybe go to an Informatics focused college and then work as a <br> 
 **Networking Technician/Manager/System Administrator**
@@ -49,17 +49,31 @@ My current goal is to successfully finish school (incl. Matura), maybe go to an 
 
 <br><br>
 
-<img class="center" src="https://readme-github-stats.now.sh/api?username=Liyf4TakingLs&theme=dark&show_icons=false&include_all_commits=true&count_private=true"><br>
-  
-<center><table>
-<tr><th colspan="2"><b>Contact Me</b></th></tr>
-<tr><td><b>Support E-Mail</b></td><td><b><a href="mailto:support@chaoticdestiny.host">support@chaoticdestiny.host</a></b></td></tr>
-<tr><td><b>Main E-Mail</b></td><td><b><a href="mailto:Liyf4TakingLs@chaoticdestiny.host">Liyf4TakingLs@chaoticdestiny.host</a></b></td></tr>
-<tr><td><b>Backup E-Mail</b></td><td><b><a href="mailto:Liyf4TakingLs@gmail.com">Liyf4TakingLs@gmail.com</a></b></td></tr>
-<tr><td><b>Discord</b></td><td><b>!Liyf4TakingLs#0630</b></td></tr>
-</table></center>
-<br><br><br><br><br><br>
+<br>
 
-<input type="checkbox" id="finish" name="finish">
-<label for="finish">If I successfully finish school, I'll dye my hair pink and use the foto for my profile picture. 🤞 🤞 🤞 🤞 </label>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Contact Me</th>
+    <td rowspan="5"><img class="center" src="https://readme-github-stats.now.sh/api?username=Liyf4TakingLs&theme=dark&show_icons=false&include_all_commits=true&count_private=true"></td>
+  </tr>
+  <tr>
+    <td><b>Support E-Mail</b></td>
+    <td><b><a href="mailto:support@chaoticdestiny.host">support@chaoticdestiny.host</a></b></td>
+  </tr>
+  <tr>
+    <td>Main E-Mail</td>
+    <td><b><a href="mailto:Liyf4TakingLs@chaoticdestiny.host">Liyf4TakingLs@chaoticdestiny.host</a></b></td>
+  </tr>
+  <tr>
+    <td>Backup E-Mail</td>
+    <td><b><a href="mailto:Liyf4TakingLs@gmail.com">Liyf4TakingLs@gmail.com</a></b></td>
+  </tr>
+  <tr>
+    <td>Discord</td>
+    <td><b>!Liyf4TakingLs#0630</a></b></td>
+  </tr>
+</thead>
+</table>
+</center>
 </div>
